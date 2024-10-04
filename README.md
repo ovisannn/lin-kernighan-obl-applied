@@ -6,11 +6,7 @@ This repository contains an implementation of the **Lin-Kernighan heuristic** fo
 - [Overview](#overview)
 - [Algorithms Implemented](#algorithms-implemented)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Input Format](#input-format)
-- [Output](#output)
-- [Performance](#performance)
-- [License](#license)
+
 
 ## Overview
 The **Lin-Kernighan** algorithm is a local search heuristic for the TSP. It attempts to improve a given tour by performing k-opt moves, where edges in the tour are swapped to reduce the total distance traveled.
