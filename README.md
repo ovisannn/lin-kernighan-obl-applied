@@ -1,12 +1,6 @@
 # Lin-Kernighan Algorithm with Opposition-Based Learning (OBL)
 
-This repository contains an implementation of the **Lin-Kernighan heuristic** for solving the Traveling Salesman Problem (TSP), with an additional comparison between using **Opposition-Based Learning (OBL)** and without OBL.
-
-## Table of Contents
-- [Overview](#overview)
-- [Algorithms Implemented](#algorithms-implemented)
-- [Dependencies](#dependencies)
-
+An implementation of the **Lin-Kernighan heuristic** for solving the Traveling Salesman Problem (TSP), with an additional comparison between using **Opposition-Based Learning (OBL)** and without OBL.
 
 ## Overview
 The **Lin-Kernighan** algorithm is a local search heuristic for the TSP. It attempts to improve a given tour by performing k-opt moves, where edges in the tour are swapped to reduce the total distance traveled.
